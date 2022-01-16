@@ -1,0 +1,3 @@
+Palio;Fiat;2;VErmelho;IJL-1234
+Palio;Fiat;2;Preto;IJL-1235
+Gol;Volkswagen;4;Cinza Urano;ABC-1456
